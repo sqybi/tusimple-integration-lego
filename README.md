@@ -18,7 +18,8 @@ Play LEGO with TuSimple Integration colleagues!!!
 ## Past Artworks
 
 ### 史迪仔 HC9041
-[ TODO ]
+![HC9041 #01](https://github.com/sqybi/tusimple-integration-lego/raw/master/HC9041/HC9041-01.jpg)
+![HC9041 #02](https://github.com/sqybi/tusimple-integration-lego/raw/master/HC9041/HC9041-02.jpg)
 
 ### 霍格沃茨城堡 LP71043
 [ Working on... ]
