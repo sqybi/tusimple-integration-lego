@@ -5,8 +5,8 @@
 ![HC9041 #01](HC9041-02.jpg)
 
 ## Participated Artists
-Fan Mo
-Junbo Chen
-Lut Ze
-Mengge Jin
-Qingyu Sui
+- Fan Mo
+- Junbo Chen
+- Lut Ze
+- Mengge Jin
+- Qingyu Sui
