@@ -7,7 +7,7 @@
 ## Participated Artists
 - Fan Mo
 - Junbo Chen
-- Lut Ze
+- Mut Ze
 - Mengge Jin
 - Qingyu Sui
 - Jiahui Wei
